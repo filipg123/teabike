@@ -1,0 +1,22 @@
+{
+  "name": "teabike",
+  "version": "1.0.0",
+  "description": "Very good experience)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipg123/teabike.git"
+  },
+  "dependencies": {
+    "tealikelove": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipg123/teabike/issues"
+  },
+  "homepage": "https://github.com/filipg123/teabike#readme"
+}
